@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://ausbet55.com/sitemap.php
+Sitemap: http://maroko55.karenlasater.com/sitemap.php
